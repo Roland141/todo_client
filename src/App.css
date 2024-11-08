@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+.app{
+  
+  
+}
+body{
+  background-color: blueviolet;
+}
+
+.login{
+  width: 300px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  gap: 10px;
+}
+.header{
+  text-align: center;
+}
+.addtodo{
+  text-align: center;
+}
